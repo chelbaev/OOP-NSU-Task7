@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/time_main.dir/main.cpp.o -o time_main  TimeLib/libTimeLib.a

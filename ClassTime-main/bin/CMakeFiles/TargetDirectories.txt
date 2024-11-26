@@ -1,0 +1,6 @@
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/CMakeFiles/time_main.dir
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/CMakeFiles/edit_cache.dir
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/CMakeFiles/rebuild_cache.dir
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/TimeLib/CMakeFiles/TimeLib.dir
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/TimeLib/CMakeFiles/edit_cache.dir
+/home/brizolka/second_course/cpp_progs/ClassTime-main/bin/TimeLib/CMakeFiles/rebuild_cache.dir
